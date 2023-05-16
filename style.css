@@ -41,6 +41,11 @@ table.home
   font-size: 4em;
 }
 
+#center
+{
+  text-align: center;
+}
+
 .text
 {
   padding: 50px;
