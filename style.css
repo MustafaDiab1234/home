@@ -46,6 +46,11 @@ table.home
   padding: 50px;
 }
 
+#sources
+{
+  text-align: center;
+}
+
 .sources
 {
   font-style: italic;
