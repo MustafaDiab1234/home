@@ -1,0 +1,125 @@
+html
+{
+  background-color: black;
+}
+
+body
+{
+  font-family: Tahoma, sans-serif
+}
+
+h1, h2
+{
+  text-align: center;
+  color: white;
+}
+
+h3
+{
+  color: white
+}
+
+p
+{
+  color: white;
+  font-size: 20px;
+}
+
+li
+{
+  color: white;
+  font-size: 20px;
+}
+
+table
+{
+  width: 100%;
+}
+
+table.home
+{
+  font-size: 4em;
+}
+
+.text
+{
+  padding: 50px;
+}
+
+.sources
+{
+  font-style: italic;
+  list-style-type: circle;
+}
+
+p.home
+{
+  text-align: center;
+}
+
+#Book
+{
+  width: 300px; 
+  height: 200px;
+}
+
+a
+{
+  color: deepskyblue;
+}
+
+a:hover
+{
+  color: dodgerblue;
+}
+
+#Main_Validator
+{
+  text-align: center;
+}
+/* This part of the css is to show when the user hovers over the element(s). */
+
+td.home
+{
+  text-align: center;
+  opacity: 25%;
+  transition: 1s;
+}
+
+td.home:hover
+{
+  opacity: 100%;
+  transform: scale(1.2);
+}
+
+/* This part of the css is to show the colors of the different bending styles. */
+
+#red
+{
+  color: red;
+}
+
+#orange
+{
+  color: orange; 
+}
+
+#metal
+{
+  color: #C0C0C0; 
+}
+
+#ice
+{
+  color: #368BC1;
+}
+
+#healing
+{
+  color: #9EEEB0;
+}
+
+#sand
+{
+  color: #C2B280
+}
